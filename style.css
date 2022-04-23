@@ -1,0 +1,20 @@
+body {
+    color: black;
+ }
+div.main{
+    position: center;
+}
+h1.arcade,.nintendo,.sony,.sega{
+    background-color: white;
+    font-family: system-ui;
+    font-size: large;
+    text-align: center;
+}
+/* inserire immagini per arcade nintendo etc */
+pre,a{
+    text-align: center;
+    text-decoration: none;
+    font-size:large;
+    font-family: system-ui;
+    text-align-last: center;
+}
