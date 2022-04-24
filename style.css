@@ -18,3 +18,13 @@ pre,a{
     font-family: system-ui;
     text-align-last: center;
 }
+.container{
+    widows: inherit;
+    width: max-content;
+    height: max-content;
+}
+iframe{
+    width: 600px;
+    height: 1024px;
+
+}
