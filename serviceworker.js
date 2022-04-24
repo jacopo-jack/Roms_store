@@ -14,9 +14,8 @@ if (navigator.serviceWorker) {
     }
     var cacheName = 'Roms_store-cache-v1';
 var cacheAssets = [
-	'/assets/pages/offline-page.html',
-	'/assets/styles/offline-page.css',
-	'/assets/script/offline-page.js',
+	'index.html',
+	'style.css',
 
 ];
 
