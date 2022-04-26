@@ -1,6 +1,8 @@
-//coockies e cache
+//coockies
 function cookie(){
     promo_shown=1; SameSite=Lax
-    URLSearchParams("sharee iconochive-pinteres")
+    URLSearchParams("sharee iconochive-pinteres")    
 }
+
+
 
