@@ -1,5 +1,6 @@
 body {
     color: black;
+    
  }
 div.main{
     position: center;
@@ -28,5 +29,7 @@ iframe{
     height: 1024px;
     text-decoration: none;
     text-display:none;
+    overflow-y: auto; 
+    overflow-x: hidden;
 
 }
