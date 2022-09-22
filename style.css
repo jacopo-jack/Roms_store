@@ -31,5 +31,6 @@ iframe{
     text-display:none;
     overflow-y: auto; 
     overflow-x: hidden;
+    allowfullscreen: true;
 
 }
